@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#5370E8</color>
+    <color name="colorPrimaryDark">#E7EFFC</color>
+    <color name="colorAccent">#ffffff</color>
+
+    <color name="backg">#ffffff</color>
+    <color name="catagory">#5370E8</color>
+    <color name="click">#ff8fa3</color>
+    <color name="teal_200">#E7EFFC</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
